@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Language="en_US">
+			<Text>Watchtower</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Language="en_US">
+			<Text>+2 Sight for occupying unit. +1 Sight for units occupying adjacent Encampments and defensive improvements.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
