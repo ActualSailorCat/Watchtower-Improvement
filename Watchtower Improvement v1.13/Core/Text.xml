@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- English -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="Watchtower" Language="en_US"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="Occupying units have +2 Sight and can see through woods and jungles. +1 Sight for units occupying adjacent Encampments and defensive improvements." Language="en_US"/>
+		<!-- German -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="Wachturm" Language="de_DE"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="Besetzende Einheiten erhalten +2 Sichtweite und können durch Wald und Dschungel sehen. +1 Sichtweite für Einheiten die angrenzende Lager oder Defensivmodernisierungen besetzen." Language="de_DE"/>
+		<!-- French -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="Tour de guet" Language="fr_FR"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="Les unités occupants la tour de guet on +2 en vision et peuvent voir au travers des bois et jungles. +1 en vision pour les unités occupants des campements et fortifications adjacents." Language="fr_FR"/>
+		<!-- Japanese -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="ウォッチタワー" Language="ja_JP"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="占拠しているユニットは+2の視力を持ち、森やジャングルを見通すことができる。隣接するエンカ ンプションや防衛施設を占拠しているユニットの視力は+1 となる。" Language="ja_JP"/>
+		<!-- Simplified Chinese -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="瞭望塔" Language="zh_Hans_CN"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="占领单位有+2的视力，可以看穿树林和丛林。占领相邻安营扎寨和防御性改善的单位有+1的视力。" Language="zh_Hans_CN"/>
+		<!-- Traditional Chinese -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="瞭望塔" Language="zh_Hant_HK"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="佔領單位有+2的視力，可以看穿樹林和叢林。佔領相鄰安營扎寨和防禦性改善的單位有+1的視力。" Language="zh_Hant_HK"/>
+	</LocalizedText>
+</GameData>
