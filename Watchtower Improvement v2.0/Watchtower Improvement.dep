@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..GameDependencyData>
+	<ID>
+		<name text="Watchtower Improvement"/>
+		<id text="72950284-90dc-424d-ba04-4a1d8de2b336"/>
+	</ID>
+	<RequiredGameArtIDs>
+		<Element>
+			<name text="Civ6"/>
+			<id text="cb2f71b7-843e-4af3-9ca7-992acda9c195"/>
+		</Element>
+	</RequiredGameArtIDs>
+	<SystemDependencies>
+		<Element>
+			<ConsumerName text="Units"/>
+			<ArtDefDependencyPaths>
+				<Element text="Units.artdef"/>
+				<Element text="Eras.artdef"/>
+			</ArtDefDependencyPaths>
+			<LibraryDependencies>
+				<Element text="Unit"/>
+				<Element text="VFX"/>
+				<Element text="Light"/>
+			</LibraryDependencies>
+			<LoadsLibraries>true</LoadsLibraries>
+		</Element>
+		<Element>
+			<ConsumerName text="Landmarks"/>
+			<ArtDefDependencyPaths>
+				<Element text="Improvements.artdef"/>
+				<Element text="Landmarks.artdef"/>
+				<Element text="Eras.artdef"/>
+				<Element text="StrategicView.artdef"/>
+			</ArtDefDependencyPaths>
+			<LibraryDependencies>
+				<Element text="CityBuildings"/>
+				<Element text="TileBase"/>
+				<Element text="RouteDecalMaterial"/>
+			</LibraryDependencies>
+			<LoadsLibraries>true</LoadsLibraries>
+		</Element>
+		<Element>
+			<ConsumerName text="StrategicView_Properties"/>
+			<ArtDefDependencyPaths>
+				<Element text="StrategicView.artdef"/>
+			</ArtDefDependencyPaths>
+			<LibraryDependencies/>
+			<LoadsLibraries>false</LoadsLibraries>
+		</Element>
+		<Element>
+			<ConsumerName text="StrategicView_Sprite"/>
+			<ArtDefDependencyPaths>
+				<Element text="Improvements.artdef"/>
+				<Element text="StrategicView.artdef"/>
+				<Element text="Landmarks.artdef"/>
+				<Element text="Eras.artdef"/>
+			</ArtDefDependencyPaths>
+			<LibraryDependencies>
+				<Element text="StrategicView_Sprite"/>
+				<Element text="StrategicView_DirectedAsset"/>
+			</LibraryDependencies>
+			<LoadsLibraries>true</LoadsLibraries>
+		</Element>
+		<Element>
+			<ConsumerName text="UI"/>
+			<ArtDefDependencyPaths/>
+			<LibraryDependencies>
+				<Element text="UITexture"/>
+			</LibraryDependencies>
+			<LoadsLibraries>true</LoadsLibraries>
+		</Element>
+		<Element>
+			<ConsumerName text="Improvements"/>
+			<ArtDefDependencyPaths>
+				<Element text="Improvements.artdef"/>
+				<Element text="StrategicView.artdef"/>
+				<Element text="Landmarks.artdef"/>
+				<Element text="Eras.artdef"/>
+			</ArtDefDependencyPaths>
+			<LibraryDependencies/>
+			<LoadsLibraries>false</LoadsLibraries>
+		</Element>
+		<Element>
+			<ConsumerName text="WorldView_Translate"/>
+			<ArtDefDependencyPaths>
+				<Element text="Improvements.artdef"/>
+				<Element text="StrategicView.artdef"/>
+				<Element text="Landmarks.artdef"/>
+				<Element text="Eras.artdef"/>
+			</ArtDefDependencyPaths>
+			<LibraryDependencies/>
+			<LoadsLibraries>false</LoadsLibraries>
+		</Element>
+		<Element>
+			<ConsumerName text="StrategicView_Translate"/>
+			<ArtDefDependencyPaths>
+				<Element text="Improvements.artdef"/>
+				<Element text="StrategicView.artdef"/>
+				<Element text="Landmarks.artdef"/>
+				<Element text="Eras.artdef"/>
+			</ArtDefDependencyPaths>
+			<LibraryDependencies/>
+			<LoadsLibraries>false</LoadsLibraries>
+		</Element>
+		<Element>
+			<ConsumerName text="Audio"/>
+			<ArtDefDependencyPaths>
+				<Element text="Improvements.artdef"/>
+				<Element text="StrategicView.artdef"/>
+				<Element text="Landmarks.artdef"/>
+				<Element text="Eras.artdef"/>
+			</ArtDefDependencyPaths>
+			<LibraryDependencies/>
+			<LoadsLibraries>false</LoadsLibraries>
+		</Element>
+		<Element>
+			<ConsumerName text="IndirectGrid"/>
+			<ArtDefDependencyPaths>
+				<Element text="Improvements.artdef"/>
+				<Element text="StrategicView.artdef"/>
+				<Element text="Landmarks.artdef"/>
+				<Element text="Eras.artdef"/>
+			</ArtDefDependencyPaths>
+			<LibraryDependencies/>
+			<LoadsLibraries>false</LoadsLibraries>
+		</Element>
+		<Element>
+			<ConsumerName text="UnitSimulation"/>
+			<ArtDefDependencyPaths>
+				<Element text="Improvements.artdef"/>
+				<Element text="StrategicView.artdef"/>
+				<Element text="Landmarks.artdef"/>
+				<Element text="Eras.artdef"/>
+			</ArtDefDependencyPaths>
+			<LibraryDependencies/>
+			<LoadsLibraries>false</LoadsLibraries>
+		</Element>
+	</SystemDependencies>
+	<ArtDefDependencies>
+		<Element>
+			<ArtDefPath text="Units.artdef"/>
+			<ArtDefDependencyPaths>
+				<Element text="Units.artdef"/>
+				<Element text="Eras.artdef"/>
+			</ArtDefDependencyPaths>
+		</Element>
+		<Element>
+			<ArtDefPath text="Improvements.artdef"/>
+			<ArtDefDependencyPaths>
+				<Element text="StrategicView.artdef"/>
+				<Element text="Improvements.artdef"/>
+				<Element text="Landmarks.artdef"/>
+			</ArtDefDependencyPaths>
+		</Element>
+		<Element>
+			<ArtDefPath text="Landmarks.artdef"/>
+			<ArtDefDependencyPaths>
+				<Element text="Eras.artdef"/>
+			</ArtDefDependencyPaths>
+		</Element>
+		<Element>
+			<ArtDefPath text="Eras.artdef"/>
+			<ArtDefDependencyPaths>
+				<Element text="Eras.artdef"/>
+			</ArtDefDependencyPaths>
+		</Element>
+		<Element>
+			<ArtDefPath text="StrategicView.artdef"/>
+			<ArtDefDependencyPaths>
+				<Element text="StrategicView.artdef"/>
+			</ArtDefDependencyPaths>
+		</Element>
+	</ArtDefDependencies>
+	<LibraryDependencies>
+		<Element>
+			<LibraryName text="Landmark"/>
+			<PackageDependencies/>
+		</Element>
+		<Element>
+			<LibraryName text="StrategicView_Sprite"/>
+			<PackageDependencies>
+				<Element text="strategicview/strategicview_improvements.blp"/>
+			</PackageDependencies>
+		</Element>
+		<Element>
+			<LibraryName text="TileBase"/>
+			<PackageDependencies>
+				<Element text="landmarks/tilebases.blp"/>
+			</PackageDependencies>
+		</Element>
+		<Element>
+			<LibraryName text="UITexture"/>
+			<PackageDependencies>
+				<Element text="UI/Icons.blp"/>
+			</PackageDependencies>
+		</Element>
+		<Element>
+			<LibraryName text="Unit"/>
+			<PackageDependencies>
+				<Element text="units/units.blp"/>
+			</PackageDependencies>
+		</Element>
+	</LibraryDependencies>
+</AssetObjects..GameDependencyData>
+

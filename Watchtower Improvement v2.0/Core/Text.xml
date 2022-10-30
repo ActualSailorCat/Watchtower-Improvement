@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- English -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="Watchtower" Language="en_US"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="Occupying units have +2 Sight and can see through woods and jungles. +1 Sight for units occupying adjacent Encampments and defensive improvements." Language="en_US"/>
+		<!-- (Simplified) Chinese -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="瞭望塔" Language="zh_Hans_CN"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="占领单位有+2的视力，可以看穿树林和丛林。占领相邻安营扎寨和防御性改善的单位有+1的视力。" Language="zh_Hans_CN"/>
+		<!-- (Traditional) Chinese -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="瞭望塔" Language="zh_Hant_HK"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="佔領單位有+2的視力，可以看穿樹林和叢林。佔領相鄰安營扎寨和防禦性改善的單位有+1的視力。" Language="zh_Hant_HK"/>
+		<!-- French -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="Tour de guet" Language="fr_FR"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="Les unités occupants la tour de guet on +2 en vision et peuvent voir au travers des bois et jungles. +1 en vision pour les unités occupants des campements et fortifications adjacents." Language="fr_FR"/>
+		<!-- German -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="Wachturm" Language="de_DE"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="Besetzende Einheiten erhalten +2 Sichtweite und können durch Wald und Dschungel sehen. +1 Sichtweite für Einheiten die angrenzende Lager oder Defensivmodernisierungen besetzen." Language="de_DE"/>
+		<!-- Italian -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="Torre di avvistamento" Language="it_IT"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="Le unità occupanti hanno +2 Vista e possono vedere attraverso boschi e giungle. +1 Vista per le unità che occupano accampamenti adiacenti e miglioramenti difensivi." Language="it_IT"/>
+		<!-- Japanese -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="ウォッチタワー" Language="ja_JP"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="占拠しているユニットは+2の視力を持ち、森やジャングルを見通すことができる。隣接するエンカ ンプションや防衛施設を占拠しているユニットの視力は+1 となる。" Language="ja_JP"/>
+		<!-- Korean -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="망대" Language="ko_KR"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="점유 중인 유닛은 시야 +2를 가지며 숲과 정글을 통해 볼 수 있습니다. 인접한 야영지 및 방어 시설을 점유하는 유닛에 대한 시력 +1." Language="ko_KR"/>
+		<!-- Polish -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="Strażnica" Language="pl_PL"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="Zajmujące jednostki mają +2 Wzrok i mogą widzieć przez lasy i dżungle. +1 Wzrok dla jednostek zajmujących sąsiednie Obozowiska i ulepszenia obronne." Language="pl_PL"/>
+		<!-- Portuguese (BR) -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="Torre de Vigilância" Language="pt_BR"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="As unidades ocupantes têm +2 Visão e podem ver através de bosques e selvas. +1 Visão para unidades que ocupam acampamentos adjacentes e melhorias defensivas." Language="pt_BR"/>
+		<!-- Russian -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="Сторожевая башня" Language="ru_RU"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="Занимающие отряды имеют +2 Зрение и могут видеть сквозь леса и джунгли. +1 Зрение для частей, занимающих соседние лагеря и оборонительные улучшения." Language="ru_RU"/>
+		<!-- Spanish -->
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_NAME" Text="Atalaya" Language="es_ES"/>
+		<Replace Tag="LOC_IMPROVEMENT_SAILOR_WATCHTOWER_DESCRIPTION" Text="Las unidades ocupantes tienen +2 de Visión y pueden ver a través de bosques y selvas. +1 de Visión para las unidades que ocupan campamentos adyacentes y mejoras defensivas." Language="es_ES"/>
+	</LocalizedText>
+</GameData>

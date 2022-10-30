@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..ArtDefSet>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_TemplateName text="Eras"/>
+	<m_RootCollections>
+		<Element>
+			<m_CollectionName text="Era"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+		</Element>
+		<Element>
+			<m_CollectionName text="ArtEra"/>
+			<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Eras"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..ArtDefReferenceValue">
+										<m_ElementName text="ERA_MEDIEVAL"/>
+										<m_RootCollectionName text="Era"/>
+										<m_ArtDefPath text="Eras.artdef"/>
+										<m_CollectionIsLocked>true</m_CollectionIsLocked>
+										<m_TemplateName text="Eras"/>
+										<m_ParamName text="Era"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="Civ6_Eras_Eras"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..ArtDefReferenceValue">
+										<m_ElementName text="ERA_RENAISSANCE"/>
+										<m_RootCollectionName text="Era"/>
+										<m_ArtDefPath text="Eras.artdef"/>
+										<m_CollectionIsLocked>true</m_CollectionIsLocked>
+										<m_TemplateName text="Eras"/>
+										<m_ParamName text="Era"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="Civ6_Eras_Eras001"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..ArtDefReferenceValue">
+										<m_ElementName text="ERA_INDUSTRIAL"/>
+										<m_RootCollectionName text="Era"/>
+										<m_ArtDefPath text="Eras.artdef"/>
+										<m_CollectionIsLocked>true</m_CollectionIsLocked>
+										<m_TemplateName text="Eras"/>
+										<m_ParamName text="Era"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="Civ6_Eras_Eras002"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="ARTERA_SAILOR_POSTANTIQUE"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Eras"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..ArtDefReferenceValue">
+										<m_ElementName text="ERA_ANCIENT"/>
+										<m_RootCollectionName text="Era"/>
+										<m_ArtDefPath text="Eras.artdef"/>
+										<m_CollectionIsLocked>true</m_CollectionIsLocked>
+										<m_TemplateName text="Eras"/>
+										<m_ParamName text="Era"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="Civ6_Eras_Eras"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+						<Element>
+							<m_Fields>
+								<m_Values>
+									<Element class="AssetObjects..ArtDefReferenceValue">
+										<m_ElementName text="ERA_CLASSICAL"/>
+										<m_RootCollectionName text="Era"/>
+										<m_ArtDefPath text="Eras.artdef"/>
+										<m_CollectionIsLocked>true</m_CollectionIsLocked>
+										<m_TemplateName text="Eras"/>
+										<m_ParamName text="Era"/>
+									</Element>
+								</m_Values>
+							</m_Fields>
+							<m_ChildCollections/>
+							<m_Name text="Civ6_Eras_Eras001"/>
+							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+						</Element>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="ARTERA_SAILOR_ANTIQUITY"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+		</Element>
+	</m_RootCollections>
+</AssetObjects..ArtDefSet>
+
